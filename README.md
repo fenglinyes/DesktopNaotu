@@ -28,9 +28,8 @@
 - 支持拖拽打开km文件
 - 支持关联打开km文件
 - 支持自动保存功能
-- [提供 **百度脑图** 文件的下载方式](Help.md)
-- [提供 **ProcessOn** 思维导图的下载方式](Help.md)
-- [查看历史版本](History.md)
+- [提供 **百度脑图** 文件的下载方式](https://github.com/NaoTu/DesktopNaotu/wiki/%E4%B8%8B%E8%BD%BD%E6%89%80%E6%9C%89%E7%99%BE%E5%BA%A6%E8%84%91%E5%9B%BE%E6%96%87%E4%BB%B6)
+
 
 ### 软件截图
 
